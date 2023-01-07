@@ -1,0 +1,15 @@
+Herramientas a utlizar
+
+1. editor de texto 
+2. ide de desarrollo (vs code) 
+3. SDK de desarrollo (Dart 2.18 o superior y flutter 3.1 o superior)
+4. Cliente git
+5. Cliente HTTP (Fiddler, PostMan, ThunderCLient)
+
+09/01/2023
+	Entrega de mockups de aplicación movil
+	
+	-material desing 3.0
+	-indicar en cada mockup que regla se esta aplicando
+
+
